@@ -16,6 +16,7 @@ class NotesView extends StatelessWidget {
         ),
         onPressed: () {
           showModalBottomSheet(
+            isScrollControlled: true,
             constraints: const BoxConstraints(
               maxWidth: double.infinity,
             ),
