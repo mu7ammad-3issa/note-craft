@@ -101,7 +101,7 @@ notes_app/
 ├── web/                    # Web specific files
 ├── windows/                # Windows specific files
 └── pubspec.yaml            # Project dependencies and metadata
-
+```
 ## Contributing 🤝
 
 Contributions are welcome! If you have ideas for improvements or find any bugs, feel free to open an issue or submit a pull request.
