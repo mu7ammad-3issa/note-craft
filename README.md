@@ -4,13 +4,24 @@ NoteCraft is a simple yet powerful notes application built with Flutter. It allo
 
 ##  Screenshots
 
+Main notes view displaying a list of existing notes:
 
-## Features ✨
 ![Screenshot_٢٠٢٥٠٥٢٨-٢٠٢٦٣٧](https://github.com/user-attachments/assets/9379699d-79b8-4022-89af-bc1bde4c9e92)
+
+Adding a new note with title, content, and color selection:
+
 ![Screenshot_٢٠٢٥٠٥٢٨-٢٠٢٦٤٣](https://github.com/user-attachments/assets/4402857b-a434-4020-9dcd-6949b05a577f)
+
+Editing an existing note, with options to change title, content, and color:
+
 ![Screenshot_٢٠٢٥٠٥٢٨-٢٠٢٦٥٨](https://github.com/user-attachments/assets/2abfe54a-f10b-452d-8564-22e14247bcf8)
+
+Empty state of the notes list, prompting to add new notes:
+
 ![Screenshot_٢٠٢٥٠٥٢٨-٢٠٢٧١٧](https://github.com/user-attachments/assets/b85c3907-0664-4bf7-aef7-715bfa59e028)
 
+
+## Features ✨
 
 * **Create Notes**: Easily add new notes with a title and detailed content.
 * **View & Edit Notes**: Access and modify your existing notes anytime.
@@ -70,6 +81,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Project Structure
 
+```plaintext
 The project follows a standard Flutter application structure:
 notes_app/
 ├── android/                # Android specific files
